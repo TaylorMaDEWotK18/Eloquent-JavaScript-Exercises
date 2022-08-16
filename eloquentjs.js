@@ -1,5 +1,7 @@
 // This is a sandbox for the exercises in Eloquent JavaScript. LETS GET IT!!
 
+// ------------------------------------------------
+
 // Intro:
 let total = 0, count = 1;
 while(count <= 10) {
@@ -8,3 +10,8 @@ while(count <= 10) {
 }
 
 console.log(total);
+// total = 55
+
+//--------------------------------------------------
+
+// Chapter 1
