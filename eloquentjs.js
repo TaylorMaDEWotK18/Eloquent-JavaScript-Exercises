@@ -15,3 +15,5 @@ console.log(total);
 //--------------------------------------------------
 
 // Chapter 1
+let javaBits = Math.pow(2, 64);
+alert(javaBits);
