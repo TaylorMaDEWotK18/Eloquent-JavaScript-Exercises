@@ -17,3 +17,7 @@ console.log(total);
 // Chapter 1
 let javaBits = Math.pow(2, 64);
 console.log(javaBits);
+
+// Ternary Operators
+console.log(true ? 1 : 2);
+console.log(false ? 'Cecil' : 'Kain');
