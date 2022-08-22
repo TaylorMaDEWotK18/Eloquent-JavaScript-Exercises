@@ -18,6 +18,9 @@ console.log(total);
 let javaBits = Math.pow(2, 64);
 console.log(javaBits);
 
-// Ternary Operators
+// Unary Operators-only take 1 operator
+console.log(+'10');
+
+// Ternary Operators-operate with 3 values
 console.log(true ? 1 : 2);
 console.log(false ? 'Cecil' : 'Kain');
