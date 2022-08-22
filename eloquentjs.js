@@ -21,6 +21,10 @@ console.log(javaBits);
 // Unary Operators-only take 1 operator
 console.log(+'10');
 
+//Binary Operators-taking 2 operands
+console.log(10 * 5);
+console.log(7 < 5);
+
 // Ternary Operators-operate with 3 values
 console.log(true ? 1 : 2);
 console.log(false ? 'Cecil' : 'Kain');
