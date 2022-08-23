@@ -28,3 +28,6 @@ console.log(7 < 5);
 // Ternary Operators-operate with 3 values
 console.log(true ? 1 : 2);
 console.log(false ? 'Cecil' : 'Kain');
+
+// Just want to test this method placement real quick
+console.log("This is a string".toUpperCase());
