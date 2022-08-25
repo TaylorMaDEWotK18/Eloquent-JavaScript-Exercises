@@ -3,3 +3,8 @@
 let luigiDebt = 145;
 luigiDebt = luigiDebt + 10;
 console.log(luigiDebt);
+
+console.log(luigiDebt);
+
+let luigi;
+console.log(luigi);
